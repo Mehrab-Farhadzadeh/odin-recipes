@@ -1,5 +1,5 @@
 # odin-recipes
-My first project on the Odin!
+My first project on Odin!
 
 We want to create some recipes and bring them together into a WEBSITE :)
 
