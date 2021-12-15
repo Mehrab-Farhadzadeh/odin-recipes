@@ -1,0 +1,18 @@
+html {
+  background-color: #202020;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: #ddcfad;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  color: #ddcfad;
+}
+
+a {
+  color: goldenrod;
+}
